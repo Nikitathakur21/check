@@ -1,2 +1,2 @@
 # check
-check repositary
+check repositary for git
